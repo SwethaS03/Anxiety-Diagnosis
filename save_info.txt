@@ -1,0 +1,192 @@
+NAME: xyz
+AGE: 16
+WEIGHT: 43
+HEIGHT: 154
+GENDER: f
+DATE,DAY,TIME: Thu Apr 15 17:09:39 2021
+
+
+ MODERATELY-SEVERE ANXIETY TREATMENT: You may start by seeing your primary care provider to find out if your anxiety could
+ be related to your physical health. He or she can check for signs of an underlying
+ medical condition that may need treatment. Psychotherapy involves working with a
+ therapist to reduce your anxiety symptoms. It can be an effective treatment for
+ anxiety. Cognitive behavioural therapy (CBT) is the most effective form of
+ psychotherapy for anxiety disorders. Generally a short-term treatment, CBT focuses
+ on teaching you specific skills to improve your symptoms and gradually return to the
+ activities you have avoided because of anxiety. CBT includes exposure therapy, in 
+ which you gradually encounter the object or situation that triggers your anxiety so
+ you build confidence that you can manage the situation and anxiety symptoms. END
+
+
+
+NAME: example
+AGE: 14
+WEIGHT: 43
+HEIGHT: 154
+GENDER: f
+DATE,DAY,TIME: Thu Apr 15 18:22:05 2021
+
+
+ MODERATE ANXIETY TREATMENT: There are two main treatments for moderate anxiety disorder : Psychotherapy and lifestyle
+ changes. While most people with this disorder undergo psychotherapy to get anxiety under
+ control, lifestyle changes also make a huge difference. Use stress management and
+ relaxation techniques. Visualization techniques, meditation and yoga are examples of
+ relaxation techniques that can ease anxiety. Healthy eating — such as focusing on
+ vegetables, fruits, whole grains and fish — may be linked to reduced anxiety, but more
+ research is needed. Avoid alcohol and recreational drugs. These substances can cause or
+ worsen anxiety. If you can’t quit on your own, see your doctor or find a support group to help
+ you. Don't let worries isolate you from loved ones or activities. END
+
+
+NAME: abcd
+AGE: 17
+WEIGHT: 54
+HEIGHT: 176
+GENDER: f
+DATE,DAY,TIME: Fri May 07 11:08:57 2021
+
+
+ SEVERE ANXIETY TREATMENT:
+ You may need to see a mental health specialist. A psychologist and certain other mental 
+ health professionals can diagnose anxiety and provide counseling (psychotherapy). Several 
+ types of medications are used to help relieve symptoms. Certain antidepressants are also
+ used to treat anxiety disorders. An anti-anxiety medication called buspirone may be 
+ prescribed. In limited circumstances, your doctor may prescribe other types of 
+ medications, such as sedatives, also called benzodiazepines, or beta blockers. 
+ These medications are for short-term relief of anxiety symptoms and are not 
+ intended to be used long term. Several herbal remedies have been studied as a treatment 
+ for anxiety. Before taking herbal remedies or dietary supplements, talk to your doctor to 
+ make sure they're safe for you and won't interact with any medications you take. END
+
+
+NAME: blahhh
+AGE: 76
+WEIGHT: 175
+HEIGHT: 176
+GENDER: d
+DATE,DAY,TIME: Fri May 07 11:14:08 2021
+
+
+ SEVERE ANXIETY TREATMENT:
+ You may need to see a mental health specialist. A psychologist and certain other mental 
+ health professionals can diagnose anxiety and provide counseling (psychotherapy). Several 
+ types of medications are used to help relieve symptoms. Certain antidepressants are also
+ used to treat anxiety disorders. An anti-anxiety medication called buspirone may be 
+ prescribed. In limited circumstances, your doctor may prescribe other types of 
+ medications, such as sedatives, also called benzodiazepines, or beta blockers. 
+ These medications are for short-term relief of anxiety symptoms and are not 
+ intended to be used long term. Several herbal remedies have been studied as a treatment 
+ for anxiety. Before taking herbal remedies or dietary supplements, talk to your doctor to 
+ make sure they're safe for you and won't interact with any medications you take. END
+
+
+NAME: suganthi
+AGE: 45
+WEIGHT: 76
+HEIGHT: 165
+GENDER: f
+DATE,DAY,TIME: Wed May 12 09:56:55 2021
+
+
+NAME: mani
+AGE: 17
+WEIGHT: 76
+HEIGHT: 165
+GENDER: m
+DATE,DAY,TIME: Wed May 12 10:43:48 2021
+
+
+ MODERATELY-SEVERE ANXIETY TREATMENT: You may start by seeing your primary care provider to find out if your anxiety could
+ be related to your physical health. He or she can check for signs of an underlying
+ medical condition that may need treatment. Psychotherapy involves working with a
+ therapist to reduce your anxiety symptoms. It can be an effective treatment for
+ anxiety. Cognitive behavioural therapy (CBT) is the most effective form of
+ psychotherapy for anxiety disorders. Generally a short-term treatment, CBT focuses
+ on teaching you specific skills to improve your symptoms and gradually return to the
+ activities you have avoided because of anxiety. CBT includes exposure therapy, in 
+ which you gradually encounter the object or situation that triggers your anxiety so
+ you build confidence that you can manage the situation and anxiety symptoms. END
+
+
+NAME: gopal
+AGE: 14
+WEIGHT: 54
+HEIGHT: 154
+GENDER: m
+DATE,DAY,TIME: Wed May 12 10:46:59 2021
+
+
+ MODERATELY-SEVERE ANXIETY TREATMENT: You may start by seeing your primary care provider to find out if your anxiety could
+ be related to your physical health. He or she can check for signs of an underlying
+ medical condition that may need treatment. Psychotherapy involves working with a
+ therapist to reduce your anxiety symptoms. It can be an effective treatment for
+ anxiety. Cognitive behavioural therapy (CBT) is the most effective form of
+ psychotherapy for anxiety disorders. Generally a short-term treatment, CBT focuses
+ on teaching you specific skills to improve your symptoms and gradually return to the
+ activities you have avoided because of anxiety. CBT includes exposure therapy, in 
+ which you gradually encounter the object or situation that triggers your anxiety so
+ you build confidence that you can manage the situation and anxiety symptoms. END
+
+
+NAME: bhopal
+AGE: 16
+WEIGHT: 54
+HEIGHT: 176
+GENDER: m
+DATE,DAY,TIME: Wed May 12 10:46:59 2021
+
+
+ SEVERE ANXIETY TREATMENT:
+ You may need to see a mental health specialist. A psychologist and certain other mental 
+ health professionals can diagnose anxiety and provide counseling (psychotherapy). Several 
+ types of medications are used to help relieve symptoms. Certain antidepressants are also
+ used to treat anxiety disorders. An anti-anxiety medication called buspirone may be 
+ prescribed. In limited circumstances, your doctor may prescribe other types of 
+ medications, such as sedatives, also called benzodiazepines, or beta blockers. 
+ These medications are for short-term relief of anxiety symptoms and are not 
+ intended to be used long term. Several herbal remedies have been studied as a treatment 
+ for anxiety. Before taking herbal remedies or dietary supplements, talk to your doctor to 
+ make sure they're safe for you and won't interact with any medications you take. END
+
+
+
+
+NAME: dharini
+AGE: 14
+WEIGHT: 43
+HEIGHT: 145
+GENDER: f
+DATE,DAY,TIME: Wed May 12 11:03:10 2021
+
+
+ MILD ANXIETY TREATMENT:
+ Keep a regular sleep pattern. Simple activities can help soothe the mental and physical signs of anxiety. These techniques
+ include meditation, deep breathing exercises, long baths, resting in the dark, and yoga. Learning to manage stress can help
+ limit potential triggers. Organize any upcoming pressures and deadlines, compile lists to make daunting tasks more manageable,
+ and commit to taking time off from study or work. Make a list of the negative thoughts that might be cycling as a result of anxiety,
+ and write down another list next to it containing positive, believable thoughts to replace them. Creating a mental image of
+ successfully facing and conquering a specific fear can also provide benefits if anxiety symptoms relate to a specific cause,
+ such as in a phobia. Physical exertion can improve self-image and release chemicals in the brain that trigger
+ positive feelings. END
+
+
+NAME: deeraj
+AGE: 14
+WEIGHT: 54
+HEIGHT: 164
+GENDER: m
+DATE,DAY,TIME: Wed May 12 11:11:34 2021
+
+
+ MODERATELY-SEVERE ANXIETY TREATMENT: You may start by seeing your primary care provider to find out if your anxiety could
+ be related to your physical health. He or she can check for signs of an underlying
+ medical condition that may need treatment. Psychotherapy involves working with a
+ therapist to reduce your anxiety symptoms. It can be an effective treatment for
+ anxiety. Cognitive behavioural therapy (CBT) is the most effective form of
+ psychotherapy for anxiety disorders. Generally a short-term treatment, CBT focuses
+ on teaching you specific skills to improve your symptoms and gradually return to the
+ activities you have avoided because of anxiety. CBT includes exposure therapy, in 
+ which you gradually encounter the object or situation that triggers your anxiety so
+ you build confidence that you can manage the situation and anxiety symptoms. END
+
+
